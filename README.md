@@ -2,7 +2,7 @@
 
 ## Vanilla Javascript
 
-Simple project build in Vanilla Javascript. It is country guide app.
+Simple project built in Vanilla Javascript. It is country guide app.
 In this project I used the fetch method to request data from a server.
 * Server I used: https://restcountries.com/
 
